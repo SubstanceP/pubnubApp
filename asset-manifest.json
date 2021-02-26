@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.js": "/pubnubApp/static/js/main.207875ca.chunk.js",
+    "main.js.map": "/pubnubApp/static/js/main.207875ca.chunk.js.map",
+    "runtime-main.js": "/pubnubApp/static/js/runtime-main.0664eed5.js",
+    "runtime-main.js.map": "/pubnubApp/static/js/runtime-main.0664eed5.js.map",
+    "static/css/2.b43cacbf.chunk.css": "/pubnubApp/static/css/2.b43cacbf.chunk.css",
+    "static/js/2.113414ca.chunk.js": "/pubnubApp/static/js/2.113414ca.chunk.js",
+    "static/js/2.113414ca.chunk.js.map": "/pubnubApp/static/js/2.113414ca.chunk.js.map",
+    "index.html": "/pubnubApp/index.html",
+    "precache-manifest.591ea9e3eb705bc0d42caee48fc12672.js": "/pubnubApp/precache-manifest.591ea9e3eb705bc0d42caee48fc12672.js",
+    "service-worker.js": "/pubnubApp/service-worker.js",
+    "static/css/2.b43cacbf.chunk.css.map": "/pubnubApp/static/css/2.b43cacbf.chunk.css.map",
+    "static/js/2.113414ca.chunk.js.LICENSE.txt": "/pubnubApp/static/js/2.113414ca.chunk.js.LICENSE.txt",
+    "static/media/add.c319ae14.svg": "/pubnubApp/static/media/add.c319ae14.svg",
+    "static/media/back.2ed5eb5f.svg": "/pubnubApp/static/media/back.2ed5eb5f.svg",
+    "static/media/background.png": "/pubnubApp/static/media/background.fcad69ea.png",
+    "static/media/cross.b6fc28a2.svg": "/pubnubApp/static/media/cross.b6fc28a2.svg",
+    "static/media/emoji.cf026ffe.svg": "/pubnubApp/static/media/emoji.cf026ffe.svg",
+    "static/media/giphy.7da9115d.svg": "/pubnubApp/static/media/giphy.7da9115d.svg",
+    "static/media/leave.2835e004.svg": "/pubnubApp/static/media/leave.2835e004.svg",
+    "static/media/logo.svg": "/pubnubApp/static/media/logo.85dc561e.svg",
+    "static/media/logo.eab776f7.svg": "/pubnubApp/static/media/logo.eab776f7.svg",
+    "static/media/people.b19c3ca0.svg": "/pubnubApp/static/media/people.b19c3ca0.svg",
+    "static/media/presence.48ac61c7.svg": "/pubnubApp/static/media/presence.48ac61c7.svg",
+    "static/media/screenshot.png": "/pubnubApp/static/media/screenshot.547f1a66.png",
+    "static/media/search.e4ea21b3.svg": "/pubnubApp/static/media/search.e4ea21b3.svg",
+    "static/media/send.e581c8c0.svg": "/pubnubApp/static/media/send.e581c8c0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0664eed5.js",
+    "static/css/2.b43cacbf.chunk.css",
+    "static/js/2.113414ca.chunk.js",
+    "static/js/main.207875ca.chunk.js"
+  ]
+}
